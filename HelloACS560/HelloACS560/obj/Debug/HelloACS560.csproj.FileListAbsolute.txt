@@ -1,0 +1,6 @@
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\bin\Debug\HelloACS560.exe.config
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\bin\Debug\HelloACS560.exe
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\bin\Debug\HelloACS560.pdb
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\obj\Debug\HelloACS560.csprojResolveAssemblyReference.cache
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\obj\Debug\HelloACS560.exe
+c:\users\max fowler\documents\visual studio 2015\Projects\HelloACS560\HelloACS560\obj\Debug\HelloACS560.pdb
